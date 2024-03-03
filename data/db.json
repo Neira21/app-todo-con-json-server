@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "text": "Aprender ReactJS",
+      "id": 3
+    },
+    {
+      "text": "Nuevo curso de programación",
+      "id": "a81ab1c1-6619-4a2f-b9e1-3a6fe7c8e98c"
+    },
+    {
+      "text": "Estudiar para el examen",
+      "id": "1d149a14-ba80-4fa5-ba0d-285e7b8d15e5"
+    },
+    {
+      "id": "ba3881b9-990e-43d7-b77b-871a8f57ff84",
+      "text": "Repaso de curso de verano",
+      "done": false
+    }
+  ]
+}
